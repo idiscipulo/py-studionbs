@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'py-studionbs',
   packages = ['py_studionbs'],
-  version = '0.0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'A personal repository of useful Python functions',
   author = 'Isaiah Discipulo',
   author_email = 'ikdiscipulo@gmail.com',
   url = 'https://github.com/idiscipulo/py-studionbs',
-  download_url = 'https://github.com/idiscipulo/py-studionbs/archive/v_0_0_1.tar.gz',
+  download_url = 'https://github.com/idiscipulo/py-studionbs/archive/v_0_0_2.tar.gz',
   keywords = [],
   install_requires=[],
   classifiers=[
